@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/gin-gonic/gin"
+	"github.com/Coccodrillo/gin"
 )
 
 const (

@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/gin-gonic/gin"
+	"github.com/Coccodrillo/gin"
 	"github.com/stretchr/testify/assert"
 )
 
